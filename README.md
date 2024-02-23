@@ -1,4 +1,6 @@
-# api-quick-start
+# Lab 34 Cookie Stand
+
+## About
 
 Template Project for starting up CRUD API with Django Rest Framework
 
